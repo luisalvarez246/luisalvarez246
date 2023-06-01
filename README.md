@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About Me
+
+Hello my name is Luis Carlos Alvarez Yauca, I am passionate about coding, and can spend hours researching for ways to be more efficient (I feel like I cannot get tired while coding).
+
+I love keyboard shortcuts, it would be the first thing I would look into when interacting with a software for the first time.
+
+I also like VCS's, they make me feel safe while experimenting with my code.
+
+#### Current Stack
+
+Currently I am into both front-end and back-end and I have knowledge in:
+- C
+- Javascript
+- HTML
+- CSS
+- SQL
+
+#### Contact
+
+You might contact me at luisca246@gmail.com I will be glad to help you.
+
+
