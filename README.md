@@ -26,11 +26,11 @@ I also like VCS's, they make me feel safe while experimenting with my code.
 #### Current Stack
 
 Currently I am into both front-end and back-end and I have knowledge in:
+- Java (Spring Boot)
+- Vue3
+- React
+- Node (Express, Nest, Next)
 - C
-- Javascript
-- HTML
-- CSS
-- SQL
 
 #### Contact
 
