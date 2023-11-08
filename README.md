@@ -21,7 +21,7 @@ Hello my name is Luis Carlos Alvarez Yauca, I am passionate about coding, and ca
 
 I love keyboard shortcuts, it would be the first thing I would look into when interacting with a software for the first time.
 
-I also like VCS's, they make me feel safe while experimenting with my code.
+I am also a Git enthusiast, it makes me feel safe while experimenting with my code.
 
 #### Current Stack
 
